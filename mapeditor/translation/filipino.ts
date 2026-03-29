@@ -651,7 +651,7 @@
     <name>MainWindow</name>
     <message>
         <location filename="../mainwindow.ui" line="14"/>
-        <location filename="../mainwindow.cpp" line="415"/>
+        <location filename="../mainwindow.cpp" line="417"/>
         <source>VCMI Map Editor</source>
         <translation type="unfinished">Editor ng Mapa ng VCMI</translation>
     </message>
@@ -957,15 +957,15 @@
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1254"/>
-        <location filename="../mainwindow.cpp" line="1413"/>
+        <location filename="../mainwindow.cpp" line="1416"/>
         <source>Select map layer type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1265"/>
-        <location filename="../mainwindow.cpp" line="1322"/>
-        <location filename="../mainwindow.cpp" line="1326"/>
-        <location filename="../mainwindow.cpp" line="1384"/>
+        <location filename="../mainwindow.cpp" line="1325"/>
+        <location filename="../mainwindow.cpp" line="1329"/>
+        <location filename="../mainwindow.cpp" line="1387"/>
         <source>Update appearance</source>
         <translation type="unfinished">I-update ang hitsura</translation>
     </message>
@@ -1158,12 +1158,12 @@
         <translation type="unfinished">Ctrl+Shift+=</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="391"/>
+        <location filename="../mainwindow.cpp" line="393"/>
         <source>Confirmation</source>
         <translation type="unfinished">Kumpirmasyon</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="391"/>
+        <location filename="../mainwindow.cpp" line="393"/>
         <source>Unsaved changes will be lost, are you sure?</source>
         <translation type="unfinished">Mawawala ang mga hindi na-save na pagbabago, sigurado ka ba?</translation>
     </message>
@@ -1180,259 +1180,269 @@
         <translation type="obsolete">Antas - %1</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="453"/>
-        <location filename="../mainwindow.cpp" line="1430"/>
+        <location filename="../mainwindow.cpp" line="456"/>
+        <location filename="../mainwindow.cpp" line="1433"/>
         <source>Level %1: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="479"/>
+        <location filename="../mainwindow.cpp" line="482"/>
         <source>Mods are required</source>
         <translation type="unfinished">Kinakailangan ang mga mod</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="487"/>
-        <location filename="../mainwindow.cpp" line="493"/>
+        <location filename="../mainwindow.cpp" line="490"/>
+        <location filename="../mainwindow.cpp" line="496"/>
         <source>Failed to open map</source>
         <translation type="unfinished">Nabigong buksan ang mapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="524"/>
+        <location filename="../mainwindow.cpp" line="527"/>
         <source>Open map</source>
         <translation type="unfinished">Buksan ang mapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="526"/>
+        <location filename="../mainwindow.cpp" line="529"/>
         <source>All supported maps (*.vmap *.h3m);;VCMI maps(*.vmap);;HoMM3 maps(*.h3m)</source>
         <translation type="unfinished">Lahat ng sinusuportahang mapa (*.vmap *.h3m);;mga mapa ng VCMI(*.vmap);;mga mapa ng HoMM3(*.h3m)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="580"/>
+        <location filename="../mainwindow.cpp" line="583"/>
         <source>Recently Opened Files</source>
         <translation type="unfinished">Mga Kamakailang Binuksan na File</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="633"/>
+        <location filename="../mainwindow.cpp" line="636"/>
         <source>Map validation</source>
         <translation type="unfinished">Pagpapatunay ng mapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="635"/>
+        <location filename="../mainwindow.cpp" line="638"/>
         <source>Map has critical problems and most probably will not be playable. Open Validator from the Map menu to see issues found</source>
         <translation type="unfinished">May mga kritikal na problema ang mapa at malamang na hindi ito mape-play. Buksan ang Validator mula sa menu ng Mapa para makita ang mga isyung natagpuan.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="637"/>
+        <location filename="../mainwindow.cpp" line="640"/>
         <source>Map has some errors. Open Validator from the Map menu to see issues found</source>
         <translation type="unfinished">May ilang error ang mapa. Buksan ang Validator mula sa menu ng Mapa para makita ang mga isyung natagpuan.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="664"/>
+        <location filename="../mainwindow.cpp" line="667"/>
         <source>Failed to save map</source>
         <translation type="unfinished">Nabigong i-save ang mapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="677"/>
+        <location filename="../mainwindow.cpp" line="680"/>
         <source>Save map</source>
         <translation type="unfinished">I-save ang mapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="677"/>
+        <location filename="../mainwindow.cpp" line="680"/>
         <source>VCMI maps (*.vmap)</source>
         <translation type="unfinished">Mga mapa ng VCMI (*.vmap)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="885"/>
+        <location filename="../mainwindow.cpp" line="888"/>
         <source>Type</source>
         <translation type="unfinished">Uri</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="898"/>
+        <location filename="../mainwindow.cpp" line="901"/>
         <source>Towns</source>
         <translation type="unfinished">Mga Bayan</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="899"/>
+        <location filename="../mainwindow.cpp" line="902"/>
         <source>Objects</source>
         <translation type="unfinished">Mga Bagay</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="900"/>
+        <location filename="../mainwindow.cpp" line="903"/>
         <source>Heroes</source>
         <translation type="unfinished">Mga Bayani</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="901"/>
+        <location filename="../mainwindow.cpp" line="904"/>
         <source>Artifacts</source>
         <translation type="unfinished">Mga Artifact</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="902"/>
+        <location filename="../mainwindow.cpp" line="905"/>
         <source>Resources</source>
         <translation type="unfinished">Mga Mapagkukunan</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="903"/>
+        <location filename="../mainwindow.cpp" line="906"/>
         <source>Banks</source>
         <translation type="unfinished">Mga Bangko</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="904"/>
+        <location filename="../mainwindow.cpp" line="907"/>
         <source>Dwellings</source>
         <translation type="unfinished">Mga tirahan</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="905"/>
+        <location filename="../mainwindow.cpp" line="908"/>
         <source>Grounds</source>
         <translation type="unfinished">Mga Lugar</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="906"/>
+        <location filename="../mainwindow.cpp" line="909"/>
         <source>Teleports</source>
         <translation type="unfinished">Mga Teleport</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="907"/>
+        <location filename="../mainwindow.cpp" line="910"/>
         <source>Mines</source>
         <translation type="unfinished">Mga Mina</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="908"/>
+        <location filename="../mainwindow.cpp" line="911"/>
         <source>Triggers</source>
         <translation type="unfinished">Mga Trigger</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="909"/>
+        <location filename="../mainwindow.cpp" line="912"/>
         <source>Monsters</source>
         <translation type="unfinished">Mga Halimaw</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="910"/>
+        <location filename="../mainwindow.cpp" line="913"/>
         <source>Quests</source>
         <translation type="unfinished">Mga Pakikipagsapalaran</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="911"/>
+        <location filename="../mainwindow.cpp" line="914"/>
         <source>Wog Objects</source>
         <translation type="unfinished">Mga Bagay na Wog</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="912"/>
+        <location filename="../mainwindow.cpp" line="915"/>
         <source>Obstacles</source>
         <translation type="unfinished">Mga balakid</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="913"/>
+        <location filename="../mainwindow.cpp" line="916"/>
         <source>Other</source>
         <translation type="unfinished">Iba pa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1050"/>
+        <location filename="../mainwindow.cpp" line="1053"/>
         <source>Mods loading problem</source>
         <translation type="unfinished">Problema sa paglo-load ng mga mod</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1050"/>
+        <location filename="../mainwindow.cpp" line="1053"/>
         <source>Critical error during Mods loading. Disable invalid mods and restart.</source>
         <translation type="unfinished">Kritikal na error habang naglo-load ang mga Mod. I-disable ang mga invalid na mod at i-restart.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1056"/>
+        <location filename="../mainwindow.cpp" line="1059"/>
         <source>Undo clicked</source>
         <translation type="unfinished">Na-click ang pag-undo</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1067"/>
+        <location filename="../mainwindow.cpp" line="1070"/>
         <source>Redo clicked</source>
         <translation type="unfinished">Na-click ang pag-ulit</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1078"/>
+        <location filename="../mainwindow.cpp" line="1081"/>
         <source>Passability clicked</source>
         <translation type="unfinished">Na-click ang kakayahang pumasa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1091"/>
+        <location filename="../mainwindow.cpp" line="1094"/>
         <source>Grid clicked</source>
         <translation type="unfinished">Na-click ang grid</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1172"/>
+        <location filename="../mainwindow.cpp" line="1175"/>
         <source>Fill clicked</source>
         <translation type="unfinished">Na-click ang pagpuno</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1322"/>
+        <location filename="../mainwindow.cpp" line="1325"/>
         <source>No objects selected</source>
         <translation type="unfinished">Walang napiling mga bagay</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1326"/>
+        <location filename="../mainwindow.cpp" line="1329"/>
         <source>This operation is irreversible. Do you want to continue?</source>
         <translation type="unfinished">Hindi na maibabalik ang operasyong ito. Gusto mo pa bang magpatuloy?</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1384"/>
+        <location filename="../mainwindow.cpp" line="1387"/>
         <source>Errors occurred. %1 objects were not updated</source>
         <translation type="unfinished">May mga naganap na error. %1 na mga bagay ang hindi na-update</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1414"/>
+        <location filename="../mainwindow.cpp" line="1417"/>
         <source>Type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1469"/>
+        <location filename="../mainwindow.cpp" line="1475"/>
         <source>Save to image</source>
         <translation type="unfinished">I-save sa larawan</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1501"/>
+        <location filename="../mainwindow.cpp" line="1518"/>
+        <source>Failed to save image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="1518"/>
+        <source>Cannot save image to %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="1533"/>
         <source>Select maps to convert</source>
         <translation type="unfinished">Pumili ng mga mapa na iko-convert</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1503"/>
+        <location filename="../mainwindow.cpp" line="1535"/>
         <source>HoMM3 maps(*.h3m)</source>
         <translation type="unfinished">Mga mapa ng HoMM3 (*.h3m)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1507"/>
+        <location filename="../mainwindow.cpp" line="1539"/>
         <source>Choose directory to save converted maps</source>
         <translation type="unfinished">Pumili ng direktoryo para i-save ang mga na-convert na mapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1521"/>
+        <location filename="../mainwindow.cpp" line="1553"/>
         <source>Operation completed</source>
         <translation type="unfinished">Nakumpleto na ang operasyon</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1521"/>
+        <location filename="../mainwindow.cpp" line="1553"/>
         <source>Successfully converted %1 maps</source>
         <translation type="unfinished">Matagumpay na na-convert ang %1 na mga mapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1525"/>
+        <location filename="../mainwindow.cpp" line="1557"/>
         <source>Failed to convert the map. Abort operation</source>
         <translation type="unfinished">Nabigong i-convert ang mapa. Itigil ang operasyon</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1531"/>
+        <location filename="../mainwindow.cpp" line="1563"/>
         <source>Select campaign to convert</source>
         <translation type="unfinished">Pumili ng kampanyang iko-convert</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1533"/>
+        <location filename="../mainwindow.cpp" line="1565"/>
         <source>HoMM3 campaigns (*.h3c)</source>
         <translation type="unfinished">Mga kampanyang HoMM3 (*.h3c)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1537"/>
+        <location filename="../mainwindow.cpp" line="1569"/>
         <source>Select destination file</source>
         <translation type="unfinished">Piliin ang patutunguhang file</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1539"/>
+        <location filename="../mainwindow.cpp" line="1571"/>
         <source>VCMI campaigns (*.vcmp)</source>
         <translation type="unfinished">Mga kampanyang VCMI (*.vcmp)</translation>
     </message>
@@ -1533,7 +1543,7 @@ Do you want to do that now ?</source>
 <context>
     <name>MapView</name>
     <message>
-        <location filename="../mapview.cpp" line="637"/>
+        <location filename="../mapview.cpp" line="660"/>
         <source>Can&apos;t place object</source>
         <translation type="unfinished">Hindi mailagay ang bagay</translation>
     </message>
@@ -1934,27 +1944,27 @@ Do you want to do that now ?</source>
         <translation type="unfinished">Mga pangalawang kasanayan:</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="937"/>
+        <location filename="../inspector/inspector.cpp" line="940"/>
         <source>Compliant</source>
         <translation type="unfinished">Sumusunod</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="938"/>
+        <location filename="../inspector/inspector.cpp" line="941"/>
         <source>Friendly</source>
         <translation type="unfinished">Palakaibigan</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="939"/>
+        <location filename="../inspector/inspector.cpp" line="942"/>
         <source>Aggressive</source>
         <translation type="unfinished">Agresibo</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="940"/>
+        <location filename="../inspector/inspector.cpp" line="943"/>
         <source>Hostile</source>
         <translation type="unfinished">Masungit</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="941"/>
+        <location filename="../inspector/inspector.cpp" line="944"/>
         <source>Savage</source>
         <translation type="unfinished">Savage</translation>
     </message>
@@ -2014,54 +2024,54 @@ Do you want to do that now ?</source>
         <translation type="unfinished">Mga Kaganapan</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="406"/>
+        <location filename="../inspector/inspector.cpp" line="409"/>
         <source>Resource</source>
         <translation type="unfinished">Mapagkukunan</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="437"/>
+        <location filename="../inspector/inspector.cpp" line="440"/>
         <source>Artifact reward</source>
         <translation type="unfinished">Gantimpala ng artifact</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="480"/>
+        <location filename="../inspector/inspector.cpp" line="483"/>
         <source>Quest</source>
         <translation type="unfinished">Paghahanap</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="498"/>
+        <location filename="../inspector/inspector.cpp" line="501"/>
         <source>Identifier</source>
         <translation type="unfinished">Tagatukoy</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="499"/>
+        <location filename="../inspector/inspector.cpp" line="502"/>
         <source>ID</source>
         <translation type="unfinished">ID</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="500"/>
+        <location filename="../inspector/inspector.cpp" line="503"/>
         <source>SubID</source>
         <translation type="unfinished">SubID</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="501"/>
+        <location filename="../inspector/inspector.cpp" line="504"/>
         <source>InstanceName</source>
         <translation type="unfinished">Pangalan ng Instance</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="506"/>
+        <location filename="../inspector/inspector.cpp" line="509"/>
         <source>IsStatic</source>
         <translation type="unfinished">IsStatic</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="880"/>
-        <location filename="../inspector/inspector.cpp" line="991"/>
+        <location filename="../inspector/inspector.cpp" line="883"/>
+        <location filename="../inspector/inspector.cpp" line="994"/>
         <source>neutral</source>
         <translation type="unfinished">neutral</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="246"/>
-        <location filename="../inspector/inspector.cpp" line="438"/>
+        <location filename="../inspector/inspector.cpp" line="441"/>
         <source>Army</source>
         <translation type="unfinished">Hukbo</translation>
     </message>
@@ -2072,47 +2082,47 @@ Do you want to do that now ?</source>
         <location filename="../inspector/inspector.cpp" line="281"/>
         <location filename="../inspector/inspector.cpp" line="288"/>
         <location filename="../inspector/inspector.cpp" line="319"/>
-        <location filename="../inspector/inspector.cpp" line="404"/>
-        <location filename="../inspector/inspector.cpp" line="509"/>
-        <location filename="../inspector/inspector.cpp" line="556"/>
+        <location filename="../inspector/inspector.cpp" line="407"/>
+        <location filename="../inspector/inspector.cpp" line="512"/>
+        <location filename="../inspector/inspector.cpp" line="559"/>
         <source>Owner</source>
         <translation type="unfinished">May-ari</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="258"/>
-        <location filename="../inspector/inspector.cpp" line="664"/>
+        <location filename="../inspector/inspector.cpp" line="667"/>
         <source>Same as town</source>
         <translation type="unfinished">Pareho ng bayan</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="274"/>
-        <location filename="../inspector/inspector.cpp" line="679"/>
+        <location filename="../inspector/inspector.cpp" line="682"/>
         <source>Removable units</source>
         <translation type="unfinished">Mga naaalis na yunit</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="299"/>
-        <location filename="../inspector/inspector.cpp" line="687"/>
+        <location filename="../inspector/inspector.cpp" line="690"/>
         <source>Placeholder type</source>
         <translation type="unfinished">Uri ng placeholder</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="302"/>
-        <location filename="../inspector/inspector.cpp" line="705"/>
+        <location filename="../inspector/inspector.cpp" line="708"/>
         <source>Power rank</source>
         <translation type="unfinished">Ranggo ng kapangyarihan</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="310"/>
         <location filename="../inspector/inspector.cpp" line="350"/>
-        <location filename="../inspector/inspector.cpp" line="708"/>
-        <location filename="../inspector/inspector.cpp" line="732"/>
+        <location filename="../inspector/inspector.cpp" line="711"/>
+        <location filename="../inspector/inspector.cpp" line="735"/>
         <source>Hero type</source>
         <translation type="unfinished">Uri ng bayani</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="320"/>
-        <location filename="../inspector/inspector.cpp" line="729"/>
+        <location filename="../inspector/inspector.cpp" line="732"/>
         <source>Experience</source>
         <translation type="unfinished">Karanasan</translation>
     </message>
@@ -2130,19 +2140,19 @@ Do you want to do that now ?</source>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="326"/>
-        <location filename="../inspector/inspector.cpp" line="718"/>
+        <location filename="../inspector/inspector.cpp" line="721"/>
         <source>Gender</source>
         <translation type="unfinished">Kasarian</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="328"/>
-        <location filename="../inspector/inspector.cpp" line="721"/>
+        <location filename="../inspector/inspector.cpp" line="724"/>
         <source>Name</source>
         <translation type="unfinished">Pangalan</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="329"/>
-        <location filename="../inspector/inspector.cpp" line="725"/>
+        <location filename="../inspector/inspector.cpp" line="728"/>
         <source>Biography</source>
         <translation type="unfinished">Talambuhay</translation>
     </message>
@@ -2154,135 +2164,135 @@ Do you want to do that now ?</source>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="359"/>
-        <location filename="../inspector/inspector.cpp" line="744"/>
+        <location filename="../inspector/inspector.cpp" line="747"/>
         <source>Patrol radius</source>
         <translation type="unfinished">Radius ng pagpapatrolya</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="367"/>
-        <location filename="../inspector/inspector.cpp" line="621"/>
+        <location filename="../inspector/inspector.cpp" line="624"/>
         <source>Town name</source>
         <translation type="unfinished">Pangalan ng bayan</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="374"/>
-        <location filename="../inspector/inspector.cpp" line="625"/>
+        <location filename="../inspector/inspector.cpp" line="628"/>
         <source>Same as player</source>
         <translation type="unfinished">Pareho ng manlalaro</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="381"/>
-        <location filename="../inspector/inspector.cpp" line="415"/>
-        <location filename="../inspector/inspector.cpp" line="422"/>
-        <location filename="../inspector/inspector.cpp" line="429"/>
-        <location filename="../inspector/inspector.cpp" line="455"/>
-        <location filename="../inspector/inspector.cpp" line="598"/>
-        <location filename="../inspector/inspector.cpp" line="633"/>
-        <location filename="../inspector/inspector.cpp" line="650"/>
-        <location filename="../inspector/inspector.cpp" line="769"/>
+        <location filename="../inspector/inspector.cpp" line="418"/>
+        <location filename="../inspector/inspector.cpp" line="425"/>
+        <location filename="../inspector/inspector.cpp" line="432"/>
+        <location filename="../inspector/inspector.cpp" line="458"/>
+        <location filename="../inspector/inspector.cpp" line="601"/>
+        <location filename="../inspector/inspector.cpp" line="636"/>
+        <location filename="../inspector/inspector.cpp" line="653"/>
+        <location filename="../inspector/inspector.cpp" line="772"/>
         <source>Message</source>
         <translation type="unfinished">Mensahe</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="395"/>
-        <location filename="../inspector/inspector.cpp" line="654"/>
+        <location filename="../inspector/inspector.cpp" line="398"/>
+        <location filename="../inspector/inspector.cpp" line="657"/>
         <source>Spell</source>
         <translation type="unfinished">Spell</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="407"/>
-        <location filename="../inspector/inspector.cpp" line="642"/>
+        <location filename="../inspector/inspector.cpp" line="410"/>
+        <location filename="../inspector/inspector.cpp" line="645"/>
         <source>Productivity</source>
         <translation type="unfinished">Produktibidad</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="414"/>
-        <location filename="../inspector/inspector.cpp" line="439"/>
-        <location filename="../inspector/inspector.cpp" line="761"/>
-        <location filename="../inspector/inspector.cpp" line="778"/>
+        <location filename="../inspector/inspector.cpp" line="417"/>
+        <location filename="../inspector/inspector.cpp" line="442"/>
+        <location filename="../inspector/inspector.cpp" line="764"/>
+        <location filename="../inspector/inspector.cpp" line="781"/>
         <source>Amount</source>
         <translation type="unfinished">Halaga</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="433"/>
-        <location filename="../inspector/inspector.cpp" line="772"/>
+        <location filename="../inspector/inspector.cpp" line="436"/>
+        <location filename="../inspector/inspector.cpp" line="775"/>
         <source>Character</source>
         <translation type="unfinished">Karakter</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="923"/>
+        <location filename="../inspector/inspector.cpp" line="926"/>
         <source>Select town</source>
         <translation type="unfinished">Pumili ng bayan</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="435"/>
-        <location filename="../inspector/inspector.cpp" line="774"/>
+        <location filename="../inspector/inspector.cpp" line="438"/>
+        <location filename="../inspector/inspector.cpp" line="777"/>
         <source>Never flees</source>
         <translation type="unfinished">Hindi kailanman tumatakas</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="436"/>
-        <location filename="../inspector/inspector.cpp" line="776"/>
+        <location filename="../inspector/inspector.cpp" line="439"/>
+        <location filename="../inspector/inspector.cpp" line="779"/>
         <source>Not growing</source>
         <translation type="unfinished">Hindi lumalaki</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="448"/>
-        <location filename="../inspector/inspector.cpp" line="488"/>
+        <location filename="../inspector/inspector.cpp" line="451"/>
+        <location filename="../inspector/inspector.cpp" line="491"/>
         <source>Reward</source>
         <translation type="unfinished">Gantimpala</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="462"/>
-        <location filename="../inspector/inspector.cpp" line="607"/>
+        <location filename="../inspector/inspector.cpp" line="465"/>
+        <location filename="../inspector/inspector.cpp" line="610"/>
         <source>Remove after</source>
         <translation type="unfinished">Alisin pagkatapos</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="463"/>
-        <location filename="../inspector/inspector.cpp" line="610"/>
+        <location filename="../inspector/inspector.cpp" line="466"/>
+        <location filename="../inspector/inspector.cpp" line="613"/>
         <source>Human trigger</source>
         <translation type="unfinished">Gatilyo ng tao</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="464"/>
-        <location filename="../inspector/inspector.cpp" line="613"/>
+        <location filename="../inspector/inspector.cpp" line="467"/>
+        <location filename="../inspector/inspector.cpp" line="616"/>
         <source>Cpu trigger</source>
         <translation type="unfinished">Gatilyo ng CPU</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="472"/>
-        <location filename="../inspector/inspector.cpp" line="786"/>
+        <location filename="../inspector/inspector.cpp" line="475"/>
+        <location filename="../inspector/inspector.cpp" line="789"/>
         <source>First visit text</source>
         <translation type="unfinished">Teksto ng unang pagbisita</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="473"/>
-        <location filename="../inspector/inspector.cpp" line="789"/>
+        <location filename="../inspector/inspector.cpp" line="476"/>
+        <location filename="../inspector/inspector.cpp" line="792"/>
         <source>Next visit text</source>
         <translation type="unfinished">Teksto para sa susunod na pagbisita</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="474"/>
-        <location filename="../inspector/inspector.cpp" line="792"/>
+        <location filename="../inspector/inspector.cpp" line="477"/>
+        <location filename="../inspector/inspector.cpp" line="795"/>
         <source>Completed text</source>
         <translation type="unfinished">Nakumpletong teksto</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="475"/>
-        <location filename="../inspector/inspector.cpp" line="489"/>
-        <location filename="../inspector/inspector.cpp" line="795"/>
+        <location filename="../inspector/inspector.cpp" line="478"/>
+        <location filename="../inspector/inspector.cpp" line="492"/>
+        <location filename="../inspector/inspector.cpp" line="798"/>
         <source>Repeat quest</source>
         <translation type="unfinished">Ulitin ang paghahanap</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="476"/>
-        <location filename="../inspector/inspector.cpp" line="797"/>
+        <location filename="../inspector/inspector.cpp" line="479"/>
+        <location filename="../inspector/inspector.cpp" line="800"/>
         <source>Time limit</source>
         <translation type="unfinished">Limitasyon sa oras</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="878"/>
+        <location filename="../inspector/inspector.cpp" line="881"/>
         <source>UNFLAGGABLE</source>
         <translation type="unfinished">HINDI MAAARING MA-FLAGGA</translation>
     </message>
@@ -3419,7 +3429,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <name>TemplateEditor</name>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="14"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="637"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="651"/>
         <source>VCMI Template Editor</source>
         <translation type="unfinished">Editor ng Template ng VCMI</translation>
     </message>
@@ -3451,7 +3461,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="137"/>
         <location filename="../templateeditor/templateeditor.ui" line="1325"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="265"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="271"/>
         <source>Add</source>
         <translation type="unfinished">Idagdag</translation>
     </message>
@@ -3529,14 +3539,14 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="478"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="403"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="416"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="409"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="422"/>
         <source>None</source>
         <translation type="unfinished">Wala</translation>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="485"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="419"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="425"/>
         <source>Normal</source>
         <translation type="unfinished">Normal</translation>
     </message>
@@ -3598,7 +3608,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="689"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Type</source>
         <translation type="unfinished">Uri</translation>
     </message>
@@ -3646,7 +3656,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <location filename="../templateeditor/templateeditor.ui" line="785"/>
         <location filename="../templateeditor/templateeditor.ui" line="1229"/>
         <location filename="../templateeditor/templateeditor.ui" line="1235"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="378"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="384"/>
         <source>Treasure</source>
         <translation type="unfinished">Kayamanan</translation>
     </message>
@@ -3793,7 +3803,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="1389"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="466"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="474"/>
         <source>Del</source>
         <translation type="unfinished">Del</translation>
     </message>
@@ -3848,250 +3858,260 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation type="unfinished">Ctrl+Shift+=</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Min</source>
         <translation type="unfinished">Minuto</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Max</source>
         <translation type="unfinished">Pinakamataas</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Action</source>
         <translation type="unfinished">Aksyon</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="254"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="467"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="260"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="475"/>
         <source>Delete</source>
         <translation type="unfinished">Burahin</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="293"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="299"/>
         <source>ID: %1</source>
         <translation type="unfinished">ID: %1</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="295"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="301"/>
         <source>Max treasure: %1</source>
         <translation type="unfinished">Pinakamataas na kayamanan: %1</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="376"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="382"/>
         <source>Player start</source>
         <translation type="unfinished">Pagsisimula ng manlalaro</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="377"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="383"/>
         <source>CPU start</source>
         <translation type="unfinished">Pagsisimula ng CPU</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="379"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="385"/>
         <source>Junction</source>
         <translation type="unfinished">Sangandaan</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="380"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="386"/>
         <source>Water</source>
         <translation type="unfinished">Tubig</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="381"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="387"/>
         <source>Sealed</source>
         <translation type="unfinished">Selyado</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="408"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="414"/>
         <source>Automatic</source>
         <translation type="unfinished">Awtomatiko</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="409"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="415"/>
         <source>Surface</source>
         <translation type="unfinished">Ibabaw</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="410"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="416"/>
         <source>Underground</source>
         <translation type="unfinished">Ilalim ng lupa</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="417"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="454"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="423"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="462"/>
         <source>Random</source>
         <translation type="unfinished">Random</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="418"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="424"/>
         <source>Weak</source>
         <translation type="unfinished">Mahina</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="420"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="426"/>
         <source>Strong</source>
         <translation type="unfinished">Malakas</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Zone A</source>
         <translation type="unfinished">Sona A</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Zone B</source>
         <translation type="unfinished">Sona B</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Guard</source>
         <translation type="unfinished">Bantay</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Road</source>
         <translation type="unfinished">Kalsada</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="449"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="457"/>
         <source>Guarded</source>
         <translation type="unfinished">Binabantayan</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="450"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="458"/>
         <source>Fictive</source>
         <translation type="unfinished">Kathang-isip</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="451"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="459"/>
         <source>Repulsive</source>
         <translation type="unfinished">Nakakasuklam</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="452"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="460"/>
         <source>Wide</source>
         <translation type="unfinished">Malapad</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="453"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="461"/>
         <source>Force portal</source>
         <translation type="unfinished">Portal ng puwersa</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="455"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="463"/>
         <source>Yes</source>
         <translation type="unfinished">Oo</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="456"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="464"/>
         <source>No</source>
         <translation type="unfinished">Hindi</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="565"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="579"/>
         <source>Zone A: %1
 Zone B: %2
 Guard: %3</source>
         <translation type="unfinished">Sona A: %1\nSona B: %2\nBantay: %3</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="625"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="639"/>
         <source>Confirmation</source>
         <translation type="unfinished">Kumpirmasyon</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="625"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="639"/>
         <source>Unsaved changes will be lost, are you sure?</source>
         <translation type="unfinished">Mawawala ang mga hindi na-save na pagbabago, sigurado ka ba?</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="649"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="663"/>
         <source>Validation failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="654"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="668"/>
         <source>No player range defined.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="661"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="675"/>
         <source>Invalid range for players.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="669"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="683"/>
         <source>Invalid range for human players.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="684"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="698"/>
         <source>Connection references non-existing zone(s): %1 - %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="696"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="710"/>
         <source>Zone %1 has no connections.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="720"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="734"/>
         <source>Player %1 must have exactly one player start zone (found %2).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="757"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="771"/>
         <source>Open template</source>
         <translation type="unfinished">Buksan ang template</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="759"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="773"/>
         <source>VCMI templates(*.json)</source>
         <translation type="unfinished">Mga template ng VCMI(*.json)</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="775"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="789"/>
         <source>Save template</source>
         <translation type="unfinished">I-save ang template</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="775"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="789"/>
         <source>VCMI templates (*.json)</source>
         <translation type="unfinished">Mga template ng VCMI (*.json)</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="891"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="932"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="905"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="946"/>
         <source>Enter Name</source>
         <translation type="unfinished">Ilagay ang Pangalan</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="891"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="932"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="905"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="946"/>
         <source>Name:</source>
         <translation type="unfinished">Pangalan:</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="898"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="912"/>
         <source>Already existing!</source>
         <translation type="unfinished">Umiiral na!</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="898"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="912"/>
         <source>A template with this name is already existing.</source>
         <translation type="unfinished">Mayroon nang template na may ganitong pangalan.</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="915"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="929"/>
         <source>To few templates!</source>
         <translation type="unfinished">Sa ilang mga template!</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="915"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="929"/>
         <source>At least one template should remain after removing.</source>
         <translation type="unfinished">Dapat may matira kahit isang template pagkatapos tanggalin.</translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.cpp" line="1179"/>
+        <source>Too few zones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.cpp" line="1179"/>
+        <source>Create at least two zones before adding a connection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4938,47 +4958,47 @@ Guard: %3</source>
         <translation type="unfinished">Pasadyang binhi</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1042"/>
+        <location filename="../windownewmap.ui" line="1048"/>
         <source>Generate random map</source>
         <translation type="unfinished">Bumuo ng random na mapa</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1070"/>
+        <location filename="../windownewmap.ui" line="1076"/>
         <source>OK</source>
         <translation type="unfinished">Sige</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1089"/>
+        <location filename="../windownewmap.ui" line="1095"/>
         <source>Cancel</source>
         <translation type="unfinished">Kanselahin</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="294"/>
+        <location filename="../windownewmap.cpp" line="297"/>
         <source>No template</source>
         <translation type="unfinished">Walang template</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="294"/>
+        <location filename="../windownewmap.cpp" line="297"/>
         <source>No template for parameters specified. Random map cannot be generated.</source>
         <translation type="unfinished">Walang tinukoy na template para sa mga parameter. Hindi maaaring mabuo ang random na mapa.</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="316"/>
+        <location filename="../windownewmap.cpp" line="319"/>
         <source>RMG failure</source>
         <translation type="unfinished">Pagkabigo ng RMG</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="343"/>
+        <location filename="../windownewmap.cpp" line="346"/>
         <source>Multilevel support</source>
         <translation type="unfinished">Suporta sa maraming antas</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="343"/>
+        <location filename="../windownewmap.cpp" line="346"/>
         <source>Multilevel support is highly experimental yet. Expect issues.</source>
         <translation type="unfinished">Ang suportang multilevel ay lubos na eksperimental pa rin. Asahan ang mga isyu.</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="464"/>
+        <location filename="../windownewmap.cpp" line="467"/>
         <source>[default]</source>
         <translation type="unfinished">[default]</translation>
     </message>

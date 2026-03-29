@@ -763,7 +763,7 @@
     <name>MainWindow</name>
     <message>
         <location filename="../mainwindow.ui" line="14"/>
-        <location filename="../mainwindow.cpp" line="415"/>
+        <location filename="../mainwindow.cpp" line="417"/>
         <source>VCMI Map Editor</source>
         <translation>VCMIマップエディター</translation>
     </message>
@@ -1128,15 +1128,15 @@
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1254"/>
-        <location filename="../mainwindow.cpp" line="1413"/>
+        <location filename="../mainwindow.cpp" line="1416"/>
         <source>Select map layer type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1265"/>
-        <location filename="../mainwindow.cpp" line="1322"/>
-        <location filename="../mainwindow.cpp" line="1326"/>
-        <location filename="../mainwindow.cpp" line="1384"/>
+        <location filename="../mainwindow.cpp" line="1325"/>
+        <location filename="../mainwindow.cpp" line="1329"/>
+        <location filename="../mainwindow.cpp" line="1387"/>
         <source>Update appearance</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">外観を更新</translation>
@@ -1367,13 +1367,13 @@
         <translation type="unfinished">Ctrl+Shift+=</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="391"/>
+        <location filename="../mainwindow.cpp" line="393"/>
         <source>Confirmation</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">確認</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="391"/>
+        <location filename="../mainwindow.cpp" line="393"/>
         <source>Unsaved changes will be lost, are you sure?</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">保存されていない変更は失われます。よろしいですか？</translation>
@@ -1393,218 +1393,218 @@
         <translation type="obsolete">レベル - %1</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="453"/>
-        <location filename="../mainwindow.cpp" line="1430"/>
+        <location filename="../mainwindow.cpp" line="456"/>
+        <location filename="../mainwindow.cpp" line="1433"/>
         <source>Level %1: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="479"/>
+        <location filename="../mainwindow.cpp" line="482"/>
         <source>Mods are required</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">必要なModがあります</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="487"/>
-        <location filename="../mainwindow.cpp" line="493"/>
+        <location filename="../mainwindow.cpp" line="490"/>
+        <location filename="../mainwindow.cpp" line="496"/>
         <source>Failed to open map</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップを開くのに失敗しました</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="524"/>
+        <location filename="../mainwindow.cpp" line="527"/>
         <source>Open map</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップを開く</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="526"/>
+        <location filename="../mainwindow.cpp" line="529"/>
         <source>All supported maps (*.vmap *.h3m);;VCMI maps(*.vmap);;HoMM3 maps(*.h3m)</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">すべての対応マップ (*.vmap *.h3m);;VCMIマップ(*.vmap);;HoMM3マップ(*.h3m)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="580"/>
+        <location filename="../mainwindow.cpp" line="583"/>
         <source>Recently Opened Files</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">最近開いたファイル</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="633"/>
+        <location filename="../mainwindow.cpp" line="636"/>
         <source>Map validation</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップの検証</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="635"/>
+        <location filename="../mainwindow.cpp" line="638"/>
         <source>Map has critical problems and most probably will not be playable. Open Validator from the Map menu to see issues found</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップに重大な問題があり、プレイできない可能性があります。マップメニューからバリデータを開いて問題を確認してください</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="637"/>
+        <location filename="../mainwindow.cpp" line="640"/>
         <source>Map has some errors. Open Validator from the Map menu to see issues found</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップにいくつかのエラーがあります。マップメニューからバリデータを開いて問題を確認してください</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="664"/>
+        <location filename="../mainwindow.cpp" line="667"/>
         <source>Failed to save map</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップの保存に失敗しました</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="677"/>
+        <location filename="../mainwindow.cpp" line="680"/>
         <source>Save map</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップを保存</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="677"/>
+        <location filename="../mainwindow.cpp" line="680"/>
         <source>VCMI maps (*.vmap)</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">VCMIマップ (*.vmap)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="885"/>
+        <location filename="../mainwindow.cpp" line="888"/>
         <source>Type</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">種類</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="898"/>
+        <location filename="../mainwindow.cpp" line="901"/>
         <source>Towns</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">町</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="899"/>
+        <location filename="../mainwindow.cpp" line="902"/>
         <source>Objects</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">オブジェクト</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="900"/>
+        <location filename="../mainwindow.cpp" line="903"/>
         <source>Heroes</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ヒーロー</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="901"/>
+        <location filename="../mainwindow.cpp" line="904"/>
         <source>Artifacts</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">アーティファクト</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="902"/>
+        <location filename="../mainwindow.cpp" line="905"/>
         <source>Resources</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">資源</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="903"/>
+        <location filename="../mainwindow.cpp" line="906"/>
         <source>Banks</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">バンク</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="904"/>
+        <location filename="../mainwindow.cpp" line="907"/>
         <source>Dwellings</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">住居</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="905"/>
+        <location filename="../mainwindow.cpp" line="908"/>
         <source>Grounds</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">地形</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="906"/>
+        <location filename="../mainwindow.cpp" line="909"/>
         <source>Teleports</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">テレポート</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="907"/>
+        <location filename="../mainwindow.cpp" line="910"/>
         <source>Mines</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">鉱山</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="908"/>
+        <location filename="../mainwindow.cpp" line="911"/>
         <source>Triggers</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">トリガー</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="909"/>
+        <location filename="../mainwindow.cpp" line="912"/>
         <source>Monsters</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">モンスター</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="910"/>
+        <location filename="../mainwindow.cpp" line="913"/>
         <source>Quests</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">クエスト</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="911"/>
+        <location filename="../mainwindow.cpp" line="914"/>
         <source>Wog Objects</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">Wogオブジェクト</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="912"/>
+        <location filename="../mainwindow.cpp" line="915"/>
         <source>Obstacles</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">障害物</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="913"/>
+        <location filename="../mainwindow.cpp" line="916"/>
         <source>Other</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">その他</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1050"/>
+        <location filename="../mainwindow.cpp" line="1053"/>
         <source>Mods loading problem</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">Modの読み込み問題</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1050"/>
+        <location filename="../mainwindow.cpp" line="1053"/>
         <source>Critical error during Mods loading. Disable invalid mods and restart.</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">Mod読み込み中に重大なエラーが発生しました。無効なModを無効にして再起動してください。</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1056"/>
+        <location filename="../mainwindow.cpp" line="1059"/>
         <source>Undo clicked</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">「元に戻す」をクリック</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1067"/>
+        <location filename="../mainwindow.cpp" line="1070"/>
         <source>Redo clicked</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">「やり直し」をクリック</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1078"/>
+        <location filename="../mainwindow.cpp" line="1081"/>
         <source>Passability clicked</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">通行可否をクリック</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1091"/>
+        <location filename="../mainwindow.cpp" line="1094"/>
         <source>Grid clicked</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">グリッドをクリック</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1172"/>
+        <location filename="../mainwindow.cpp" line="1175"/>
         <source>Fill clicked</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">塗りつぶしをクリック</translation>
@@ -1615,90 +1615,100 @@
         <translation type="obsolete">地上を表示</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1322"/>
+        <location filename="../mainwindow.cpp" line="1325"/>
         <source>No objects selected</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">オブジェクトが選択されていません</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1326"/>
+        <location filename="../mainwindow.cpp" line="1329"/>
         <source>This operation is irreversible. Do you want to continue?</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">この操作は元に戻せません。本当に続行しますか？</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1384"/>
+        <location filename="../mainwindow.cpp" line="1387"/>
         <source>Errors occurred. %1 objects were not updated</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">エラーが発生しました。%1 個のオブジェクトが更新されませんでした</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1414"/>
+        <location filename="../mainwindow.cpp" line="1417"/>
         <source>Type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1469"/>
+        <location filename="../mainwindow.cpp" line="1475"/>
         <source>Save to image</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">画像として保存</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1501"/>
+        <location filename="../mainwindow.cpp" line="1518"/>
+        <source>Failed to save image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="1518"/>
+        <source>Cannot save image to %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="1533"/>
         <source>Select maps to convert</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">変換するマップを選択</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1503"/>
+        <location filename="../mainwindow.cpp" line="1535"/>
         <source>HoMM3 maps(*.h3m)</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">HoMM3マップ (*.h3m)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1507"/>
+        <location filename="../mainwindow.cpp" line="1539"/>
         <source>Choose directory to save converted maps</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">変換されたマップを保存するディレクトリを選択</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1521"/>
+        <location filename="../mainwindow.cpp" line="1553"/>
         <source>Operation completed</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">操作が完了しました</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1521"/>
+        <location filename="../mainwindow.cpp" line="1553"/>
         <source>Successfully converted %1 maps</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">%1 個のマップが正常に変換されました</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1525"/>
+        <location filename="../mainwindow.cpp" line="1557"/>
         <source>Failed to convert the map. Abort operation</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">マップの変換に失敗しました。操作を中止します</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1531"/>
+        <location filename="../mainwindow.cpp" line="1563"/>
         <source>Select campaign to convert</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">変換するキャンペーンを選択</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1533"/>
+        <location filename="../mainwindow.cpp" line="1565"/>
         <source>HoMM3 campaigns (*.h3c)</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">HoMM3キャンペーン (*.h3c)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1537"/>
+        <location filename="../mainwindow.cpp" line="1569"/>
         <source>Select destination file</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">保存先ファイルを選択</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1539"/>
+        <location filename="../mainwindow.cpp" line="1571"/>
         <source>VCMI campaigns (*.vcmp)</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">VCMIキャンペーン (*.vcmp)</translation>
@@ -1820,7 +1830,7 @@ Do you want to do that now ?</source>
 <context>
     <name>MapView</name>
     <message>
-        <location filename="../mapview.cpp" line="637"/>
+        <location filename="../mapview.cpp" line="660"/>
         <source>Can&apos;t place object</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">オブジェクトを配置できません</translation>
@@ -2276,31 +2286,31 @@ Do you want to do that now ?</source>
         <translation type="unfinished">副次スキル：</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="937"/>
+        <location filename="../inspector/inspector.cpp" line="940"/>
         <source>Compliant</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">穏やか</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="938"/>
+        <location filename="../inspector/inspector.cpp" line="941"/>
         <source>Friendly</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">友好的</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="939"/>
+        <location filename="../inspector/inspector.cpp" line="942"/>
         <source>Aggressive</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">攻撃的</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="940"/>
+        <location filename="../inspector/inspector.cpp" line="943"/>
         <source>Hostile</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">敵対的</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="941"/>
+        <location filename="../inspector/inspector.cpp" line="944"/>
         <source>Savage</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">凶暴</translation>
@@ -2369,63 +2379,63 @@ Do you want to do that now ?</source>
         <translation type="unfinished">イベント</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="406"/>
+        <location filename="../inspector/inspector.cpp" line="409"/>
         <source>Resource</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">資源</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="437"/>
+        <location filename="../inspector/inspector.cpp" line="440"/>
         <source>Artifact reward</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">アーティファクト報酬</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="480"/>
+        <location filename="../inspector/inspector.cpp" line="483"/>
         <source>Quest</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">クエスト</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="498"/>
+        <location filename="../inspector/inspector.cpp" line="501"/>
         <source>Identifier</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">識別子</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="499"/>
+        <location filename="../inspector/inspector.cpp" line="502"/>
         <source>ID</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ID</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="500"/>
+        <location filename="../inspector/inspector.cpp" line="503"/>
         <source>SubID</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">サブID</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="501"/>
+        <location filename="../inspector/inspector.cpp" line="504"/>
         <source>InstanceName</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">インスタンス名</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="506"/>
+        <location filename="../inspector/inspector.cpp" line="509"/>
         <source>IsStatic</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">静的か</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="880"/>
-        <location filename="../inspector/inspector.cpp" line="991"/>
+        <location filename="../inspector/inspector.cpp" line="883"/>
+        <location filename="../inspector/inspector.cpp" line="994"/>
         <source>neutral</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">中立</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="246"/>
-        <location filename="../inspector/inspector.cpp" line="438"/>
+        <location filename="../inspector/inspector.cpp" line="441"/>
         <source>Army</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">軍隊</translation>
@@ -2437,37 +2447,37 @@ Do you want to do that now ?</source>
         <location filename="../inspector/inspector.cpp" line="281"/>
         <location filename="../inspector/inspector.cpp" line="288"/>
         <location filename="../inspector/inspector.cpp" line="319"/>
-        <location filename="../inspector/inspector.cpp" line="404"/>
-        <location filename="../inspector/inspector.cpp" line="509"/>
-        <location filename="../inspector/inspector.cpp" line="556"/>
+        <location filename="../inspector/inspector.cpp" line="407"/>
+        <location filename="../inspector/inspector.cpp" line="512"/>
+        <location filename="../inspector/inspector.cpp" line="559"/>
         <source>Owner</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">所有者</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="258"/>
-        <location filename="../inspector/inspector.cpp" line="664"/>
+        <location filename="../inspector/inspector.cpp" line="667"/>
         <source>Same as town</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">町と同じ</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="274"/>
-        <location filename="../inspector/inspector.cpp" line="679"/>
+        <location filename="../inspector/inspector.cpp" line="682"/>
         <source>Removable units</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">除去可能なユニット</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="299"/>
-        <location filename="../inspector/inspector.cpp" line="687"/>
+        <location filename="../inspector/inspector.cpp" line="690"/>
         <source>Placeholder type</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">プレースホルダータイプ</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="302"/>
-        <location filename="../inspector/inspector.cpp" line="705"/>
+        <location filename="../inspector/inspector.cpp" line="708"/>
         <source>Power rank</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">戦力ランク</translation>
@@ -2475,15 +2485,15 @@ Do you want to do that now ?</source>
     <message>
         <location filename="../inspector/inspector.cpp" line="310"/>
         <location filename="../inspector/inspector.cpp" line="350"/>
-        <location filename="../inspector/inspector.cpp" line="708"/>
-        <location filename="../inspector/inspector.cpp" line="732"/>
+        <location filename="../inspector/inspector.cpp" line="711"/>
+        <location filename="../inspector/inspector.cpp" line="735"/>
         <source>Hero type</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ヒーロータイプ</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="320"/>
-        <location filename="../inspector/inspector.cpp" line="729"/>
+        <location filename="../inspector/inspector.cpp" line="732"/>
         <source>Experience</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">経験値</translation>
@@ -2504,21 +2514,21 @@ Do you want to do that now ?</source>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="326"/>
-        <location filename="../inspector/inspector.cpp" line="718"/>
+        <location filename="../inspector/inspector.cpp" line="721"/>
         <source>Gender</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">性別</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="328"/>
-        <location filename="../inspector/inspector.cpp" line="721"/>
+        <location filename="../inspector/inspector.cpp" line="724"/>
         <source>Name</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">名前</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="329"/>
-        <location filename="../inspector/inspector.cpp" line="725"/>
+        <location filename="../inspector/inspector.cpp" line="728"/>
         <source>Biography</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">経歴</translation>
@@ -2532,155 +2542,155 @@ Do you want to do that now ?</source>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="359"/>
-        <location filename="../inspector/inspector.cpp" line="744"/>
+        <location filename="../inspector/inspector.cpp" line="747"/>
         <source>Patrol radius</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">巡回範囲</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="367"/>
-        <location filename="../inspector/inspector.cpp" line="621"/>
+        <location filename="../inspector/inspector.cpp" line="624"/>
         <source>Town name</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">町の名前</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="374"/>
-        <location filename="../inspector/inspector.cpp" line="625"/>
+        <location filename="../inspector/inspector.cpp" line="628"/>
         <source>Same as player</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">プレイヤーと同じ</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="381"/>
-        <location filename="../inspector/inspector.cpp" line="415"/>
-        <location filename="../inspector/inspector.cpp" line="422"/>
-        <location filename="../inspector/inspector.cpp" line="429"/>
-        <location filename="../inspector/inspector.cpp" line="455"/>
-        <location filename="../inspector/inspector.cpp" line="598"/>
-        <location filename="../inspector/inspector.cpp" line="633"/>
-        <location filename="../inspector/inspector.cpp" line="650"/>
-        <location filename="../inspector/inspector.cpp" line="769"/>
+        <location filename="../inspector/inspector.cpp" line="418"/>
+        <location filename="../inspector/inspector.cpp" line="425"/>
+        <location filename="../inspector/inspector.cpp" line="432"/>
+        <location filename="../inspector/inspector.cpp" line="458"/>
+        <location filename="../inspector/inspector.cpp" line="601"/>
+        <location filename="../inspector/inspector.cpp" line="636"/>
+        <location filename="../inspector/inspector.cpp" line="653"/>
+        <location filename="../inspector/inspector.cpp" line="772"/>
         <source>Message</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">メッセージ</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="395"/>
-        <location filename="../inspector/inspector.cpp" line="654"/>
+        <location filename="../inspector/inspector.cpp" line="398"/>
+        <location filename="../inspector/inspector.cpp" line="657"/>
         <source>Spell</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">魔法</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="407"/>
-        <location filename="../inspector/inspector.cpp" line="642"/>
+        <location filename="../inspector/inspector.cpp" line="410"/>
+        <location filename="../inspector/inspector.cpp" line="645"/>
         <source>Productivity</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">生産性</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="414"/>
-        <location filename="../inspector/inspector.cpp" line="439"/>
-        <location filename="../inspector/inspector.cpp" line="761"/>
-        <location filename="../inspector/inspector.cpp" line="778"/>
+        <location filename="../inspector/inspector.cpp" line="417"/>
+        <location filename="../inspector/inspector.cpp" line="442"/>
+        <location filename="../inspector/inspector.cpp" line="764"/>
+        <location filename="../inspector/inspector.cpp" line="781"/>
         <source>Amount</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">量</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="433"/>
-        <location filename="../inspector/inspector.cpp" line="772"/>
+        <location filename="../inspector/inspector.cpp" line="436"/>
+        <location filename="../inspector/inspector.cpp" line="775"/>
         <source>Character</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">キャラクター</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="923"/>
+        <location filename="../inspector/inspector.cpp" line="926"/>
         <source>Select town</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">町を選択</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="435"/>
-        <location filename="../inspector/inspector.cpp" line="774"/>
+        <location filename="../inspector/inspector.cpp" line="438"/>
+        <location filename="../inspector/inspector.cpp" line="777"/>
         <source>Never flees</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">決して逃走しない</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="436"/>
-        <location filename="../inspector/inspector.cpp" line="776"/>
+        <location filename="../inspector/inspector.cpp" line="439"/>
+        <location filename="../inspector/inspector.cpp" line="779"/>
         <source>Not growing</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">成長しない</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="448"/>
-        <location filename="../inspector/inspector.cpp" line="488"/>
+        <location filename="../inspector/inspector.cpp" line="451"/>
+        <location filename="../inspector/inspector.cpp" line="491"/>
         <source>Reward</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">報酬</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="462"/>
-        <location filename="../inspector/inspector.cpp" line="607"/>
+        <location filename="../inspector/inspector.cpp" line="465"/>
+        <location filename="../inspector/inspector.cpp" line="610"/>
         <source>Remove after</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">後で除去</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="463"/>
-        <location filename="../inspector/inspector.cpp" line="610"/>
+        <location filename="../inspector/inspector.cpp" line="466"/>
+        <location filename="../inspector/inspector.cpp" line="613"/>
         <source>Human trigger</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">人間トリガー</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="464"/>
-        <location filename="../inspector/inspector.cpp" line="613"/>
+        <location filename="../inspector/inspector.cpp" line="467"/>
+        <location filename="../inspector/inspector.cpp" line="616"/>
         <source>Cpu trigger</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">CPUトリガー</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="472"/>
-        <location filename="../inspector/inspector.cpp" line="786"/>
+        <location filename="../inspector/inspector.cpp" line="475"/>
+        <location filename="../inspector/inspector.cpp" line="789"/>
         <source>First visit text</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">初回訪問時のテキスト</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="473"/>
-        <location filename="../inspector/inspector.cpp" line="789"/>
+        <location filename="../inspector/inspector.cpp" line="476"/>
+        <location filename="../inspector/inspector.cpp" line="792"/>
         <source>Next visit text</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">次回訪問時のテキスト</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="474"/>
-        <location filename="../inspector/inspector.cpp" line="792"/>
+        <location filename="../inspector/inspector.cpp" line="477"/>
+        <location filename="../inspector/inspector.cpp" line="795"/>
         <source>Completed text</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">完了時のテキスト</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="475"/>
-        <location filename="../inspector/inspector.cpp" line="489"/>
-        <location filename="../inspector/inspector.cpp" line="795"/>
+        <location filename="../inspector/inspector.cpp" line="478"/>
+        <location filename="../inspector/inspector.cpp" line="492"/>
+        <location filename="../inspector/inspector.cpp" line="798"/>
         <source>Repeat quest</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">クエストを繰り返す</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="476"/>
-        <location filename="../inspector/inspector.cpp" line="797"/>
+        <location filename="../inspector/inspector.cpp" line="479"/>
+        <location filename="../inspector/inspector.cpp" line="800"/>
         <source>Time limit</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">時間制限</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="878"/>
+        <location filename="../inspector/inspector.cpp" line="881"/>
         <source>UNFLAGGABLE</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">フラグ不可</translation>
@@ -4026,7 +4036,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <name>TemplateEditor</name>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="14"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="637"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="651"/>
         <source>VCMI Template Editor</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">VCMI テンプレートエディタ</translation>
@@ -4060,7 +4070,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="137"/>
         <location filename="../templateeditor/templateeditor.ui" line="1325"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="265"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="271"/>
         <source>Add</source>
         <translation>追加</translation>
     </message>
@@ -4147,14 +4157,14 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="478"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="403"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="416"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="409"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="422"/>
         <source>None</source>
         <translation>なし</translation>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="485"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="419"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="425"/>
         <source>Normal</source>
         <translation>普通</translation>
     </message>
@@ -4225,7 +4235,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="689"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Type</source>
         <translation>種類</translation>
     </message>
@@ -4277,7 +4287,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <location filename="../templateeditor/templateeditor.ui" line="785"/>
         <location filename="../templateeditor/templateeditor.ui" line="1229"/>
         <location filename="../templateeditor/templateeditor.ui" line="1235"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="378"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="384"/>
         <source>Treasure</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">宝物</translation>
@@ -4443,7 +4453,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="1389"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="466"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="474"/>
         <source>Del</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">削除</translation>
@@ -4502,172 +4512,172 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation>Ctrl+Shift+=</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Min</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">最小</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Max</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">最大</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Action</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">アクション</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="254"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="467"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="260"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="475"/>
         <source>Delete</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">削除</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="293"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="299"/>
         <source>ID: %1</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ID: %1</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="295"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="301"/>
         <source>Max treasure: %1</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">最大宝物: %1</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="376"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="382"/>
         <source>Player start</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">プレイヤー開始位置</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="377"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="383"/>
         <source>CPU start</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">CPU開始位置</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="379"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="385"/>
         <source>Junction</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">接続点</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="380"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="386"/>
         <source>Water</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">水域</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="381"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="387"/>
         <source>Sealed</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">封鎖</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="408"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="414"/>
         <source>Automatic</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">自動</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="409"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="415"/>
         <source>Surface</source>
         <translation>地上</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="410"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="416"/>
         <source>Underground</source>
         <translation>地下</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="417"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="454"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="423"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="462"/>
         <source>Random</source>
         <translation>ランダム</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="418"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="424"/>
         <source>Weak</source>
         <translation>弱い</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="420"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="426"/>
         <source>Strong</source>
         <translation>強い</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Zone A</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ゾーン A</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Zone B</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ゾーン B</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Guard</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">警備</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Road</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">道路</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="449"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="457"/>
         <source>Guarded</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">守備あり</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="450"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="458"/>
         <source>Fictive</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">仮想</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="451"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="459"/>
         <source>Repulsive</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">反発</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="452"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="460"/>
         <source>Wide</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">広幅</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="453"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="461"/>
         <source>Force portal</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ポータル強制</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="455"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="463"/>
         <source>Yes</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">はい</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="456"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="464"/>
         <source>No</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">いいえ</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="565"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="579"/>
         <source>Zone A: %1
 Zone B: %2
 Guard: %3</source>
@@ -4677,112 +4687,122 @@ Guard: %3</source>
 警備: %3</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="625"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="639"/>
         <source>Confirmation</source>
         <translation>確認</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="625"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="639"/>
         <source>Unsaved changes will be lost, are you sure?</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">未保存の変更は失われます。よろしいですか？</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="649"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="663"/>
         <source>Validation failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="654"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="668"/>
         <source>No player range defined.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="661"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="675"/>
         <source>Invalid range for players.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="669"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="683"/>
         <source>Invalid range for human players.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="684"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="698"/>
         <source>Connection references non-existing zone(s): %1 - %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="696"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="710"/>
         <source>Zone %1 has no connections.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="720"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="734"/>
         <source>Player %1 must have exactly one player start zone (found %2).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="757"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="771"/>
         <source>Open template</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">テンプレートを開く</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="759"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="773"/>
         <source>VCMI templates(*.json)</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">VCMI テンプレート (*.json)</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="775"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="789"/>
         <source>Save template</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">テンプレートを保存</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="775"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="789"/>
         <source>VCMI templates (*.json)</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">VCMI テンプレート (*.json)</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="891"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="932"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="905"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="946"/>
         <source>Enter Name</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">名前を入力</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="891"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="932"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="905"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="946"/>
         <source>Name:</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">名前:</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="898"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="912"/>
         <source>Already existing!</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">すでに存在します！</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="898"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="912"/>
         <source>A template with this name is already existing.</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">この名前のテンプレートはすでに存在します。</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="915"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="929"/>
         <source>To few templates!</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">テンプレートが少なすぎます！</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="915"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="929"/>
         <source>At least one template should remain after removing.</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">削除後も少なくとも 1 件のテンプレートを残してください。</translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.cpp" line="1179"/>
+        <source>Too few zones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.cpp" line="1179"/>
+        <source>Create at least two zones before adding a connection.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -5792,55 +5812,55 @@ Guard: %3</source>
         <translation type="unfinished">カスタムシード</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1042"/>
+        <location filename="../windownewmap.ui" line="1048"/>
         <source>Generate random map</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">ランダムマップを生成</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1070"/>
+        <location filename="../windownewmap.ui" line="1076"/>
         <source>OK</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">OK</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1089"/>
+        <location filename="../windownewmap.ui" line="1095"/>
         <source>Cancel</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">キャンセル</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="294"/>
+        <location filename="../windownewmap.cpp" line="297"/>
         <source>No template</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">テンプレートなし</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="294"/>
+        <location filename="../windownewmap.cpp" line="297"/>
         <source>No template for parameters specified. Random map cannot be generated.</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">指定されたパラメータに対応するテンプレートがありません。ランダムマップを生成できません。</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="316"/>
+        <location filename="../windownewmap.cpp" line="319"/>
         <source>RMG failure</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">RMG失敗</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="343"/>
+        <location filename="../windownewmap.cpp" line="346"/>
         <source>Multilevel support</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">多層対応</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="343"/>
+        <location filename="../windownewmap.cpp" line="346"/>
         <source>Multilevel support is highly experimental yet. Expect issues.</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">多層対応はまだ非常に実験的です。問題が発生する可能性があります。</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="464"/>
+        <location filename="../windownewmap.cpp" line="467"/>
         <source>[default]</source>
         <translatorcomment>AI-generated, needs review by native speaker; delete this comment afterwards</translatorcomment>
         <translation type="unfinished">[デフォルト]</translation>
