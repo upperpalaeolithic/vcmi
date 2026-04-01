@@ -49,7 +49,7 @@
         <location filename="../campaigneditor/campaigneditor.ui" line="14"/>
         <location filename="../campaigneditor/campaigneditor.cpp" line="159"/>
         <source>VCMI Campaign Editor</source>
-        <translation type="unfinished">Editor de Campañas VCMI</translation>
+        <translation>Editor de Campañas VCMI</translation>
     </message>
     <message>
         <location filename="../campaigneditor/campaigneditor.ui" line="36"/>
